@@ -1,0 +1,31 @@
+# LibreOffice lock files
+.~lock.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.jupyter/
+
+# Claude
+.claude/
+
+# Desktop metadata
+.directory
