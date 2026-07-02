@@ -31,3 +31,13 @@ Thumbs.db
 .directory
 
 *.doc
+
+# Course materials (not code)
+资料/
+
+# Raw handwritten photos (too large, processed versions kept in 手写数据_处理后/)
+手写数据_原图/
+
+# Archived submissions
+*.tar.gz
+3240421070-*/
